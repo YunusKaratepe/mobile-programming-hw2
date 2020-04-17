@@ -1,4 +1,4 @@
-# Mobile Programming Course HW-1
+# Mobile Programming Course HW-2
 
 This repo includes 
 - all .java source files          
