@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">E-mail Application</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="login">LOGIN</string>
+    <string name="mail_sending_screen">Mail Sending Screen</string>
+    <string name="sender">Sender:</string>
+    <string name="receiver">Receiver:</string>
+    <string name="topic">Topic:</string>
+    <string name="e_mail">e-Mail:</string>
+    <string name="send_mail">SEND MAIL</string>
+    <string name="add_file">ADD FILE</string>
+    <string name="file_path" />
+    <string-array name="language_array">
+        <item>Turkish</item>
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
