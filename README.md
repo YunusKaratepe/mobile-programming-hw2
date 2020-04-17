@@ -1,5 +1,5 @@
-# mobile-programming-hw1
-Mobile Programming Homework 1
+# Mobile Programming Course HW-1
+
 This repo includes 
 - all .java source files          
 - all .xml layout files
